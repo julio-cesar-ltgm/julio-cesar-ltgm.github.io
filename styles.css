@@ -1,0 +1,12 @@
+a {
+    color: crimson;
+    text-align: center;
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
