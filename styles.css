@@ -10,3 +10,21 @@ body {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.foto {
+    overflow: hidden;
+    border-radius: 25%;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 180px;
+    rotate: -20deg;
+}
+
+.foto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
